@@ -1,0 +1,180 @@
+Ume Farwa Syeda - Software Developer from UK
+
+
+
+#---------- HEADER ----------#
+
+Ume Farwa Syeda
+
+aria-label = Toggle Menu
+
+<ion-icon name="menu-outline"></ion-icon>
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About
+Portfolio
+Skills
+Contact
+Tech
+
+Download CV
+
+
+
+#---------- HERO ----------#
+
+alt = Syeda's Photo
+
+1
+Year of Experience
+
+12
+Projects Completed
+
+<ion-icon name="trophy"></ion-icon>
+alt = I'm developer from UK
+
+Hello I'm
+
+Ume Farwa Syeda
+
+Software Developer from UK
+
+ “Learning to write programs stretches your mind and helps you think better. It creates a way of thinking about things that I think is helpful in all domains.”.
+
+Get a Quote
+
+About Me
+
+
+
+#---------- ABOUT ----------#
+
+alt = Syeda's Photo
+
+alt = Syeda's Photo
+
+<ion-icon name="logo-css3"></ion-icon>
+<ion-icon name="logo-javascript"></ion-icon>
+<ion-icon name="logo-angular"></ion-icon>
+
+I'm a Developer
+
+I Develop Application that Help People
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatu epteur sint occaecat cupidatat
+
+Krnon proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis
+
+View Portfolio
+
+
+
+#---------- PORTFOLIO ----------#
+
+Portfolio
+
+My Amazing Works
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+
+Youtube
+
+Web Application for Desiverse
+
+View Project 
+<ion-icon name="arrow-forward"></ion-icon>
+
+Vimeo
+
+Soundcloud
+
+Details
+
+
+
+#---------- SKILLS ----------#
+
+My Skills
+
+I Develop Skills Regularly
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+
+CSS
+95%
+
+React
+75%
+
+MongoDB
+90%
+
+Python
+70%
+
+PHP
+80%
+
+JavaScript
+75%
+
+
+
+#---------- CONTACT ----------#
+
+Don't be shy
+
+Drop Me a Line
+
+placeholder = Name
+
+placeholder = Email
+
+placeholder = Message
+
+Submit Message
+
+<ion-icon name="location"></ion-icon>
+Address
+35 Hanson street ,Oldham UK
+
+<ion-icon name="mail"></ion-icon>
+Email
+farwa_hi@yahoo.com
+
+<ion-icon name="call"></ion-icon>
+Phone
++447470831407
+
+
+
+#---------- Tech ----------#
+
+Latest Tech
+
+Checkout Update
+
+ AI and machine learning is my first line priority to go in the depth of technology
+
+alt = AI penetrate in the field of technology
+
+Web Development
+
+Web developments with ChatGPT a new touch
+
+
+
+#---------- FOOTER ----------#
+
+&copy; 2024 codewithsyeda. All Rights Reseverd
+
+Terms & Condition 
+Privacy Policy
+
+
+
+#---------- BACK TO TOP ----------#
+
+BACK TOP
