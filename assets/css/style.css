@@ -403,10 +403,10 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding: 120px 20px;
+  padding: 275px 30px;
   border-radius: var(--radius-20);
   font-family: var(--ff-barlow);
-  color: var(--white);
+  color: var(--blue);
   font-weight: var(--fw-600);
   transition: var(--transition-2);
 }
@@ -416,11 +416,15 @@ body {
 .portfolio-card .card-subtitle {
   color: var(--orange-soda);
   margin-block-end: 5px;
+  
 }
 
 .portfolio-card .card-title {
   max-width: 20ch;
   margin-block-end: 20px;
+  /* color: var(--black);
+  font-family: var(--ff-barlow); */
+
 }
 
 .portfolio-card .btn-link {

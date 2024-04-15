@@ -1,10 +1,10 @@
-Ethan Ward - Web Developer from New York
+Ume Farwa Syeda - Software Developer from UK
 
 
 
 #---------- HEADER ----------#
 
-Ethan Ward
+Ume Farwa Syeda
 
 aria-label = Toggle Menu
 
@@ -16,7 +16,7 @@ About
 Portfolio
 Skills
 Contact
-Blog
+Tech
 
 Download CV
 
@@ -24,25 +24,24 @@ Download CV
 
 #---------- HERO ----------#
 
-alt = Ethan's Photo
+alt = Syeda's Photo
+
+1
+Year of Experience
 
 12
-Years of Success
-
-800+
 Projects Completed
 
 <ion-icon name="trophy"></ion-icon>
-
-alt = I'm developer from New York
+alt = I'm developer from UK
 
 Hello I'm
 
-Ethan Ward
+Ume Farwa Syeda
 
-Web Developer from New York
+Software Developer from UK
 
-Adipisicing elit. Neque nulla voluptatum eos repellat deserunt nesciunt tempore porro totam.
+ “Learning to write programs stretches your mind and helps you think better. It creates a way of thinking about things that I think is helpful in all domains.”.
 
 Get a Quote
 
@@ -52,9 +51,9 @@ About Me
 
 #---------- ABOUT ----------#
 
-alt = Ethan's Photo
+alt = Syeda's Photo
 
-alt = Ethan's Photo
+alt = Syeda's Photo
 
 <ion-icon name="logo-css3"></ion-icon>
 <ion-icon name="logo-javascript"></ion-icon>
@@ -139,31 +138,31 @@ Submit Message
 
 <ion-icon name="location"></ion-icon>
 Address
-20, London, United Kingdom
+35 Hanson street ,Oldham UK
 
 <ion-icon name="mail"></ion-icon>
 Email
-hello@ethan.com
+farwa_hi@yahoo.com
 
 <ion-icon name="call"></ion-icon>
 Phone
-+123 456 7890
++447470831407
 
 
 
-#---------- BLOG ----------#
+#---------- Tech ----------#
 
-Latest News
+Latest Tech
 
-Checkout My Recent Blogs
+Checkout Update
 
-Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+ AI and machine learning is my first line priority to go in the depth of technology
 
-alt = Jim Morisson Says when the musics over turn off the light
+alt = AI penetrate in the field of technology
 
 Web Development
 
-Jim Morisson Says when the musics over turn off the light
+Web developments with ChatGPT a new touch
 
 
 
